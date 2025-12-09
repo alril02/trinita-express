@@ -1,0 +1,15 @@
+{
+  "name": "trinita",
+  "version": "1.0.0",
+  "description": "Server MK Pemrograman Web",
+  "license": "ISC",
+  "author": "Alril Ambanaga",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
